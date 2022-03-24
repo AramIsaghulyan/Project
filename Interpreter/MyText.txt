@@ -1,0 +1,9 @@
+tiv a = 17
+tiv b = 20
+tiv c = 20 + 10
+print ( c ) &
+loop ( a < b )
+[
+    print ( " hello " ) &
+    a = a + 1
+]
